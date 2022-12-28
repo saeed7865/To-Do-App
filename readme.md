@@ -2,7 +2,7 @@
 
 ## To do app using HTML, CSS and JavaScript.  
 
-click [here]( https://saeed7865.github.io/rock-paper-scissors/) to view.
+click [here]( https://saeed7865.github.io/To-Do-App/ ) to view.
 
 ![To Do App](app.png)
 
